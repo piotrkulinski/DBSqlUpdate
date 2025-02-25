@@ -23,8 +23,8 @@ namespace DBSqlUpdate
     }
 
     /// <summary>
-    /// Piotr Kuliński (c) 2024 <br/>
-    /// Główny moduł ruchomienia konwersji bazy na podstaiwe dostarczonego modelu XML
+    /// Piotr Kuliński (c) 2024
+    /// Główny moduł konwersji bazy na podstawie dostarczonego modelu XML
     /// </summary>
     public class CMDConvertion
     {
